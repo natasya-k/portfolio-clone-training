@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-clone-training",
+  "version": "1.0.0",
+  "description": "Attempting to recreate a clean minimalism website by using bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natasya-k/portfolio-clone-training.git"
+  },
+  "author": "natasyakamarudin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natasya-k/portfolio-clone-training/issues"
+  },
+  "homepage": "https://github.com/natasya-k/portfolio-clone-training#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
