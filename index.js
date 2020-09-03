@@ -14,6 +14,11 @@ app.get('/work', (req, res) => {
   res.render('work')
 })
 
+// Admin
+app.get('/admin/login', (req, res) => {
+  res.render('admin/login')
+})
+
 app.listen(port, () => {
   console.log(`Portfolio app listening at http://localhost:${port}`)
 })
